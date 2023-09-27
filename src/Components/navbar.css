@@ -1,0 +1,10 @@
+.mybtn-right {
+  text-align: right;
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
+
+.nav-item {
+  cursor: pointer !important;
+}
