@@ -58,11 +58,11 @@ To get started with the Food Ordering System, follow these steps:
    - Install /Node.js/ and /npm/.
    - Navigate to the /frontend/ directory:
      ```bash
-     cd frontend
+     cd Frontend
      ```
    - Install dependencies:
      ```bash
-     npm install
+     npm install --legacy-peer-deps
      ```
    - Start the React application:
      ```bash
